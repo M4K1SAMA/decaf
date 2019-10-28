@@ -1,7 +1,7 @@
 // Decaf LL(1) grammar
 
 %package decaf.frontend.parsing
-%import
+%im
 decaf.frontend.tree.Tree.*
 java.util.*
 
